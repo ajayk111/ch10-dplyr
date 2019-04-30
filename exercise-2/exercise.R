@@ -4,8 +4,8 @@
 ## You should have have access to the `vehicles` data.frame
 
 ## Install (if you haven't already) and load the `dplyr`package
-install.packages('dplyr')
-load(dplyr)
+#install.packages('dplyr')
+load('dplyr')
 load(fueleconomy)
 # You should have have access to the `vehicles` data.frame
 
